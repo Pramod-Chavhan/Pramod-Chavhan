@@ -1,14 +1,16 @@
 <!-- 🌐 README Profile - Pramod Chavhan -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Pramod%20Chavhan&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20FastAPI%20Expert&descAlignY=60&descAlign=60" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Pramod%20Chavhan&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20FastAPI%20Expert&descAlignY=60&descAlign=60" />
 </div>
 
 ---
 
 <h2 align="center">🧠 Who Am I?</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+Automation+Developer;Python+%7C+FastAPI+%7C+LLMs;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80"/>
+</p>
 
 <p align="center" style="font-size:18px">
 I am a <b>Data Scientist & ML Engineer</b> from Pune, India, building real-world AI solutions that bridge intelligence with usability.<br/>
@@ -32,18 +34,18 @@ With 2+ years of experience in <b>AI, NLP, LLMs, Deep Learning, and Systems Auto
 
 | 💡 Project | 💻 Tech Stack | 📊 Impact |
 |------------|---------------|------------|
-| **[Appointment Scheduler](https://sample-collection.onrender.com/)** | FastAPI, ML, Sklearn, Pandas | ⏱️ Reduced delays by 20%, automated scheduling |
-| **Face Recognition Attendance** | CNN, OpenCV, Flask | 🧠 Real-time attendance, 60% manual effort saved |
-| **Smart Irrigation System** | IoT, ML, Sensors | 💧 25% water saved, 15% better crop yield |
-| **Voice Assistant (Jarvis)** | NLP, SpeechRec, Flask | 🎙️ Task automation, 35% boost in productivity |
+| 🚑 **[Appointment Scheduler](https://sample-collection.onrender.com/)** | FastAPI, ML, Sklearn, Pandas | ⏱️ Reduced delays by 20%, automated scheduling |
+| 🧠 **Face Recognition Attendance** | CNN, OpenCV, Flask | 🎯 Real-time attendance, 60% manual effort saved |
+| 🌱 **Smart Irrigation System** | IoT, ML, Sensors | 💧 25% water saved, 15% better crop yield |
+| 🗣️ **Voice Assistant (Jarvis)** | NLP, SpeechRec, Flask | 🎙️ Task automation, 35% boost in productivity |
 
 ---
 
 ### 🎓 Education & Certifications
 
-#### 🎓 Academics
-- 👨‍🎓 M.C.A – *Savitribai Phule Pune University*, 2024  
-- 👨‍🎓 B.C.A – *Sant Gadge Baba Amravati University*, 2021
+#### 📘 Academics
+- 🎓 M.C.A – *Savitribai Phule Pune University*, 2024  
+- 🎓 B.C.A – *Sant Gadge Baba Amravati University*, 2021
 
 #### 📜 Certifications
 - 🧠 Data Science using Python – IBM, 360DigiTMG  
@@ -67,7 +69,7 @@ With 2+ years of experience in <b>AI, NLP, LLMs, Deep Learning, and Systems Auto
 
 ---
 
-### 🌍 Let’s Connect & Collaborate
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pramodchavhan">
@@ -86,9 +88,9 @@ With 2+ years of experience in <b>AI, NLP, LLMs, Deep Learning, and Systems Auto
 
 ---
 
-### 🧬 Quote to Code By
+### 💡 Quote to Code By
 
-> *\"Bringing intelligence to life through clean, scalable AI systems.\"*  
+> ✨ *\"Bringing intelligence to life through clean, scalable AI systems.\"*  
 > — Pramod Chavhan
 
 ---
